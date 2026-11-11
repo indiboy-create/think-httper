@@ -1,3 +1,8 @@
+## ThinkPHP-PanGu - 盘古ThinkPHP开源索引!
+面向 ThinkPHP 的开源工程索引：组件、框架、服务与发布工具，按能力组织，持续整理。
+仓库地址：**<https://github.com/indiboy-create/ThinkPHP-PanGu/>**
+在线站点：**<https://indiboy-create.github.io/ThinkPHP-PanGu/>**
+
 # think-httper
 
 基于 [php-curl-class](https://github.com/php-curl-class/php-curl-class) 封装的 ThinkPHP 8 HTTP 客户端，提供 Facade、助手函数、多客户端、配置合并、重试、日志、异常和统一响应对象。

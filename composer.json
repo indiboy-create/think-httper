@@ -1,5 +1,15 @@
 {
     "name": "youvision/think-httper",
+    "authors": [
+        {
+            "name": "indiboy-create",
+            "homepage": "https://github.com/indiboy-create"
+        },
+        {
+            "name": "AI",
+            "role": "Developer"
+        }
+    ],
     "description": "基于 php-curl-class 的 ThinkPHP 8 HTTP 客户端",
     "type": "library",
     "keywords": [
